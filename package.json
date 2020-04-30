@@ -27,7 +27,7 @@
     "bootstrap": "^4.3.1",
     "core-js": "^2.6.9",
     "document-register-element": "^1.7.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "ngx-filter-pipe": "^2.1.2",
     "ngx-pagination": "^3.2.1",
